@@ -27,6 +27,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with interests
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![OpenMP](https://img.shields.io/badge/-OpenMP-CP6200?style=flat&logo=openmp&logoColor=white)
 ![MPI](https://img.shields.io/badge/-MPI-0033A0?style=flat&logo=mpi&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 
 
 ### Frameworks & Libraries
