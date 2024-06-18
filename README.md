@@ -62,7 +62,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with interests
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junshang-jia/)
-[![Personal Website](https://zoharrpg.github.io/Junshang-Jia/)
+[![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat&logo=About.me&logoColor=white)](https://zoharrpg.github.io/Junshang-Jia/)
 
 Thanks for visiting my profile! Have a great day! 😊
 
